@@ -1,6 +1,6 @@
 # task
 
-you can view demo resource: http://g97390jd.beget.tech/
+you can view demo: http://g97390jd.beget.tech/
 
 
 ps.
