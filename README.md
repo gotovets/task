@@ -2,6 +2,9 @@
 
 
 this is structure of database table: 
+
+
+
 		    CREATE TABLE users ( pkey varchar(50) NOT NULL,  
 		  			 step int(11) NOT NULL,  
 					 fname text NOT NULL,  
