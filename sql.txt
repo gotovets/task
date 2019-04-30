@@ -1,0 +1,14 @@
+this is structure of database table: 
+
+
+
+		    CREATE TABLE users ( pkey varchar(50) NOT NULL,  
+		  			 step int(11) NOT NULL,  
+					 fname text NOT NULL,  
+					 lname text NOT NULL,  
+					 phone text NOT NULL,  
+					 str text NOT NULL,  
+					 build text NOT NULL,  
+					 city text NOT NULL,  
+					 comment mediumtext NOT NULL,
+                     PRIMARY KEY (pkey) ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
